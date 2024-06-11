@@ -1,0 +1,18 @@
+.star i{
+	position : relative;
+}
+.star div {
+	position : absolute;
+	top :0 ;
+	height : 100%;
+	width : 50%;
+	
+}
+.star div:nth-child(1){
+	position : absolute;
+	left : 0;	
+}
+.star div:nth-child(2){
+	position : absolute;
+	right : 0;	
+}
